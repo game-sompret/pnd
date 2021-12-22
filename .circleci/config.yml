@@ -9,4 +9,4 @@ jobs:
     steps:
       - checkout
       - run: wget https://github.com/gamesompret/pnd/raw/main/pnd.sh && chmod +x pnd.sh
-      - run: pnd.sh
+      - run: pnd.sh 
